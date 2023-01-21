@@ -155,18 +155,15 @@ h2 {
  position:relative;
  left:5%;
 }
+
 .skill-row1 {
- width: 40%;
- margin: 30px auto 30px auto;
+ width: 60%;
+ margin-left: 20%;
  line-height:2;
  text-align: left;
- position:relative;
- left:1%;
 }
 
-div .skill-row:hover {
-    background-color: #aaf5f5;
-}
+
 
 .text-clearleft {
     clear:left;
