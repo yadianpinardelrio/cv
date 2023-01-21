@@ -151,12 +151,19 @@ h2 {
  width: 40%;
  margin: 30px auto 30px auto;
  line-height:2;
- text-align: center;
+ text-align: left;
  position:relative;
  left:5%;
 }
 
-
+.skill-row1 {
+ width: 40%;
+ margin: 30px auto 30px auto;
+ line-height:2;
+ text-align: left;
+ position:relative;
+ left:20%;
+}
 
 .text-clearleft {
     clear:left;
